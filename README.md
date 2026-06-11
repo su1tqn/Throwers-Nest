@@ -10,4 +10,4 @@ Throwers Nest is a messaging and training platform designed for track and field 
 
 ## Status
 Planning Phase 
-- This is the stuff I need to plan
+
